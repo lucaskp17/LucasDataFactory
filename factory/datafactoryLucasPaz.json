@@ -1,0 +1,9 @@
+{
+	"name": "datafactoryLucasPaz",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94a6dda6-fde1-4e64-a510-67ffe2f6d0d8",
+		"tenantId": "3048dc87-43f0-4100-9acb-ae1971c79395"
+	}
+}
